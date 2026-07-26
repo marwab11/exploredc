@@ -3,7 +3,7 @@
    Author: Marwa Bahr
    Creates the exploredc schema and all 8 tables with
    PK, FK, NOT NULL, UNIQUE, and CHECK constraints.
-   Passwords are stored as SHA2-256 hashes, never plain text. */
+   Passwords are stored as SHA2-256 hashes. */
 
 DROP DATABASE IF EXISTS exploredc;
 CREATE DATABASE exploredc CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
