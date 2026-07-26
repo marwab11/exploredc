@@ -3,7 +3,7 @@
    Author: Marwa Bahr
    Major tables have 30+ rows: app_user 32, museum 30, category 30,
    artifact 40, visit 36, review 32; exhibit (weak) 35, must_see (M:N) 32.
-   Passwords are stored hashed with SHA2-256, never plain text. */
+   Passwords are stored hashed with SHA2-256. */
 
 USE exploredc;
 
