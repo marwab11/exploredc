@@ -4,12 +4,7 @@ CS 5614 - Introduction to Database Systems, Summer 2026
 Author: Marwa Bahr
 
 Connects Python (interface language) to MySQL (DBMS) and confirms
-the connection. The password is NEVER hardcoded: it is read from the
-MYSQL_PASSWORD environment variable, or prompted for security.
-
-Usage:
-    pip install mysql-connector-python
-    python connect.py
+the connection. 
 """
 
 import os
