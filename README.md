@@ -15,5 +15,3 @@ A database of Washington, DC museums, exhibits, and artifacts. Users log visits,
 | `sql/data.sql` | Loads sample data (30+ rows in every major table) |
 | `connect.py` | Python script that connects to MySQL and prints connection status \+ row counts |
 | `ID.txt` | Author / course identification |
-
-
