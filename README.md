@@ -1,6 +1,6 @@
 # ExploreDC
 
-CS 5614 – Introduction to Database Systems, Summer 2026 Author: Marwa Bahr ([marwab@vt.edu](mailto:marwab@vt.edu))
+CS 5614 – Introduction to Database Systems, Summer 2026 Author: Marwa Bahr
 
 A database of Washington, DC museums, exhibits, and artifacts. Users log visits, write reviews, and keep a "must-see" list of artifacts.
 
